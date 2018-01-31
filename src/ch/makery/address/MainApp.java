@@ -54,6 +54,8 @@ public class MainApp extends Application {
         this.primaryStage = primaryStage;
         this.primaryStage.setTitle("AddressApp");
 
+
+
         initRootLayout();
 
         showPersonOverview();
