@@ -8,6 +8,7 @@ import ch.makery.address.MainApp;
 import ch.makery.address.model.Person;
 import ch.makery.address.util.DateUtil;
 import javafx.scene.control.Alert.AlertType;
+import javafx.scene.control.Alert;
 
 public class PersonOverviewController {
     @FXML
